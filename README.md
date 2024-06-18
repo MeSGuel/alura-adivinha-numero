@@ -3,6 +3,8 @@ Este é um mini projeto desenvolvido como prática no programa ONE em parceria c
 ## Descrição
 Jogo do "Adivinhe o Número Secreto", se baseia em um número aleatório sendo gerado e o jogador tenta acertá-lo.
 + Adicionei algumas adições a esse joguinho, como um limite de tentativas e um "painel" que mostra o total de tentativas.
+
+***O link para o jogo está na seção "About" ao lado.***
 ## Linguagens Usadas
 + HTML
 + CSS
